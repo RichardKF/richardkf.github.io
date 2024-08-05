@@ -255,6 +255,15 @@ defaults:
       author_profile: true
       share: false
       comments: true
+        # _popularSci
+  - scope:
+      path: ""
+      type: popularSci
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -262,7 +271,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
