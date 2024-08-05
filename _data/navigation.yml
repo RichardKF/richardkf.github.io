@@ -2,7 +2,10 @@
 main:
   - title: "Technical Writing"
     url: /publications/
-
+  
+  - title: "Popular Science Writing"
+    url: /popularSci/
+  
   # - title: "Talks"
   #  url: /talks/    
 
