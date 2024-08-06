@@ -6,5 +6,3 @@ author_profile: true
 ---
 
 ## [Magnetic Theory](https://richardkf.github.io/popularSci/faulkMagneticTheory.pdf)
-
-## [Magnetic Theory](-/allDocs/faulkMagneticTheory.pdf)
