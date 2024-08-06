@@ -7,3 +7,6 @@ author_profile: true
 <p> </p>
 <p> </p>
 ## [How to create a reusable title sequence in Adobe Premiere Rush](https://richardkf.github.io/techWriting/faulkTitleSequence.pdf)
+<p> </p>
+<p> </p>
+## [Magnetic Theory](https://richardkf.github.io/techWriting/faulkMagneticTheory.pdf)
