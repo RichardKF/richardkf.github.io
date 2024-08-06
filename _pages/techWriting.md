@@ -6,4 +6,4 @@ author_profile: true
 ---
 <p> </p>
 <p> </p>
-## [How to Create a Reusable Title Sequence in Adobe Premiere Rush](/Users/richardfaulk/Documents/GitHub/richardkf.github.io/_techWriting/faulkTitleSequence.pdf)
+## [How to Create a Reusable Title Sequence in Adobe Premiere Rush](https://richardkf.github.io/_techWriting/faulkTitleSequence.pdf)
