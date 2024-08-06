@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Technical Writing"
+title: "publications"
 permalink: /publications/
 author_profile: true
 ---
