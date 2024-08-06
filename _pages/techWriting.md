@@ -9,4 +9,4 @@ author_profile: true
 ## [How to create a reusable title sequence in Adobe Premiere Rush](https://richardkf.github.io/_tech_writing/faulkTitleSequence.pdf)
 <p> </p>
 <p> </p>
-## [How to create a reusable title sequence in Adobe Premiere Rush](https://richardkf.github.io/popularSci/faulkTitleSequence.pdf)
+## [How to create a reusable title sequence in Adobe Premiere Rush](https://richardkf.github.io/myDocs/faulkTitleSequence.pdf)
