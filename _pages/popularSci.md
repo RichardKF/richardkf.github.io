@@ -9,4 +9,4 @@ author_profile: true
 ## [Magnetic Theory](https://richardkf.github.io/popularSci/faulkMagneticTheory.pdf)
 <p> </p>
 <p> </p>
-## [Magnetic Theory](_allDocs/faulkMagneticTheory.pdf)
+## [Magnetic Theory](-allDocs/faulkMagneticTheory.pdf)
