@@ -14,7 +14,7 @@ I made this in Apple Pages and edited the images in Snagit.
 
 ## [Developer Guide for MoonBeam](https://richardkf.github.io/techWriting/faulk-moonbeam-guide.pdf)
 
-For this class assignment in API documentation, I was given the marketing material and developer notes for a hypothetical photo sharing app. My task was to synthesize that information and inset seamlessly it into a template (which was also provided).
+For this class assignment in API documentation, I was given the marketing material and developer notes for a hypothetical photo sharing app. My task was to synthesize that information and insert it seamlessly into a template (which was also provided).
 
 I made this in MS Word.
 
