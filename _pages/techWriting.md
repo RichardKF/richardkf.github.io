@@ -18,7 +18,7 @@ For this class assignment in API documentation, I was given the marketing materi
 
 I made this in MS Word.
 
-## What is context-sensitive help?
+## [What is context-sensitive help?](https://www.youtube.com/watch?v=xdOefghJR5o&t=2s)
 
 This is a short video that explains the history and use of context-sensive help.
 
