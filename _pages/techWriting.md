@@ -18,6 +18,12 @@ For this class assignment in API documentation, I was given the marketing materi
 
 I made this in MS Word.
 
+## What is context-sensitive help?
+
+This is a short video that explains the history and use of context-sensive help.
+
+I made this in Adobe Premiere Rush, with some image editing in Snagit.
+
 This is an assignement I made for a Udemy class on documenting REST APIs.
 
 I made it in Markdown.
