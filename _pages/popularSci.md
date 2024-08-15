@@ -19,4 +19,4 @@ My aim with this translation was to craft something that's approachable for a mo
 
 This mini-essay comes from my book *The Next Big Thing*, which considers some of the outstanding inventions and ideas that shaped (or had dashed hopes of shaping) human history.
 
-All but forgotten today, magnetic theory was an early product of experimental science that was widely (if briefly) embraced as confirmation of Copernicus's sun-centered model of the universe.
+All but forgotten today, magnetic theory was an early product of experimental science that was widely (if briefly) embraced as confirmation of Copernicus's sun-centered model of the universe. For all its apparent oddness, magnetic theory paved the way for Newton's law of gravity.
