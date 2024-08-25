@@ -6,6 +6,13 @@ author_profile: true
 ---
 <p></p>
 <p></p>
+
+## [Latin Dictionaries](https://latin-dict.github.io)
+
+This website, which collects historical and specialty Latin and Ancient Greek dictionaries, is a labor of love maintained the linguist Nikita Murzintcev. I gave the documentation pages (Docs, Quick Start, and Hunspell) their first thorough revision in three years—updating links and technical content, revising how-tos, and revising the language to be more clear and consistent.
+
+For the sake of comparision, you can view [a PDF of the earlier version.](https://richardkf.github.io/techWriting/latin-dict.pdf)
+
 ## [How to create a reusable title sequence in Adobe Premiere Rush](https://richardkf.github.io/techWriting/faulkTitleSequence.pdf)
 
 The genesis of this instructional was a problem I encountered in a tech writing class. We were working with Adobe Premiere Rush, and I wanted to reuse a single title sequence to give my video projects the feel of a documentary series. However, there was no documented function for this, and I couldn't find online cheats either. So I figured it out my own, documented it, and submitted the guide as another assignment.
