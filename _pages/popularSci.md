@@ -21,7 +21,7 @@ This mini-essay comes from my book *The Next Big Thing*, which considers some of
 
 All but forgotten today, magnetic theory was an early product of experimental science that was widely (if briefly) embraced as confirmation of Copernicus's sun-centered model of the universe. For all its apparent oddness, magnetic theory paved the way for Newton's law of gravity.
 
-## [From the Rx Column](https://richardkf.github.io/popularSci/rx.md)
+## [From the Rx Column](https://richardkf.github.io/_popularSci/rx.md)
 
 For the summer 2016 launch of The Fresh Toast, a lifestyle website that aimed to corner cannabis culture, I was approached in the spring about writing 100 short articles on health and medical issues related to marijuana use. These were to form the core content of a proposed Rx column.
 
