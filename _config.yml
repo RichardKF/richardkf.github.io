@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Richard Faulk / Site Title"
+title                    : "Richard Faulk / Portfolio"
 title_separator          : "-"
 name                     : &name "Richard Faulk"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "Me.jpg"
   name             : "Richard Faulk"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Author, Technical Communicator, Editor, Educator"
   location         : "Oakland, CA"
   # employer         : "Red Brick University"
   uri              : # URL
