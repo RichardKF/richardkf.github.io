@@ -11,9 +11,9 @@ author_profile: true
 
 This website, which collects historical and specialty Latin and Ancient Greek dictionaries, is a labor of love maintained the linguist Nikita Murzintcev. I gave the documentation pages (Docs, Quick Start, and Hunspell) their first thorough revision in three years—updating links and technical content, revising how-tos, and editing the language throughout to be more clear and consistent.
 
-I forked the site on GitHub and made edits in Markdown using VS Code. I made the graphics in Snagit.
+(For the sake of comparision, you can view [a PDF of the earlier version.](https://richardkf.github.io/techWriting/latin-dict.pdf))
 
-For the sake of comparision, you can view [a PDF of the earlier version.](https://richardkf.github.io/techWriting/latin-dict.pdf)
+I forked the site on GitHub and made edits in Markdown using VS Code. I made the graphics in Snagit.
 
 ## [How to create a reusable title sequence in Adobe Premiere Rush](https://richardkf.github.io/techWriting/faulkTitleSequence.pdf)
 
