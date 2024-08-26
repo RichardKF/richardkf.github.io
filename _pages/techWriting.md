@@ -32,7 +32,3 @@ I made this in MS Word.
 This is a short video that explains the history and use of context-sensive help.
 
 I made this in Adobe Premiere Rush.
-
-This is an assignement I made for a Udemy class on documenting REST APIs.
-
-I made it in Markdown.
