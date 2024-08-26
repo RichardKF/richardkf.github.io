@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Popular Science Writing"
-permalink: /popularSci/
+title: "Rx Column"
+permalink: /rx/
 author_profile: true
 ---
 
