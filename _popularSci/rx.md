@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Rx Column"
 permalink: /rx/
 author_profile: true
