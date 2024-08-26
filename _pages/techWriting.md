@@ -9,7 +9,7 @@ author_profile: true
 
 ## [Latin Dictionaries](https://latin-dict.github.io)
 
-This website, which collects historical and specialty Latin and Ancient Greek dictionaries, is a labor of love maintained the linguist Nikita Murzintcev. I gave the documentation pages (Docs, Quick Start, and Hunspell) their first thorough revision in three years—updating links and technical content, revising how-tos, and revising the language to be more clear and consistent.
+This website, which collects historical and specialty Latin and Ancient Greek dictionaries, is a labor of love maintained the linguist Nikita Murzintcev. I gave the documentation pages (Docs, Quick Start, and Hunspell) their first thorough revision in three years—updating links and technical content, revising how-tos, and editing the language throughout to be more clear and consistent.
 
 I forked the site on GitHub and made edits in Markdown using VS Code. I made the graphics in Snagit.
 
