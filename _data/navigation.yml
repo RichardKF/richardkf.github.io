@@ -12,7 +12,7 @@ main:
   - title: "Books"
     url: /books/
   
-   - title: "Talks"
+  - title: "Talks"
     url: /talks/     
     
   - # title: "Portfolio"
