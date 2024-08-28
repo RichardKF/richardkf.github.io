@@ -23,7 +23,7 @@ All but forgotten today, magnetic theory was an early product of experimental sc
 
 ## [From the Rx Column](https://richardkf.github.io/popularSci/rx.pdf)
 
-For the summer 2016 launch of The Fresh Toast, a cannabis-centered lifestyle website, I was approached in the spring about writing 100 short articles on health and medical issues related to marijuana use. These were to form the core content of a proposed Rx section.
+For the summer 2016 launch of The Fresh Toast, a cannabis-centered lifestyle platform, I was approached in the spring about writing 100 short articles on health and medical issues related to marijuana use. These were to form the core content of a proposed Rx section.
 
 Though I was (and am) in no way a cannabis evangelist, I thought it was an interesting challenge, so I accepted.
 
