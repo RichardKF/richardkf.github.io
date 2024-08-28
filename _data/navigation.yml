@@ -12,8 +12,8 @@ main:
   - title: "Books"
     url: /books/
   
-  - title: "Talks"
-    url: /talks/     
+  # - title: "Talks"
+   # url: /talks/     
     
   - # title: "Portfolio"
     # url: /portfolio/
