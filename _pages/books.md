@@ -10,7 +10,7 @@ author_profile: true
 “An indispensible and brilliant translation by Richard Faulk of the *Thesaurus Anatomicus*. It is almost like Ruysch is talking to the reader.”
 —Robert Maddox-Harle, *Leonardo* magazine
 
-![Thesaurus Anatomicus](https://richardkf.github.io/images/ruysch.png)
+[![Thesaurus Anatomicus](https://richardkf.github.io/images/ruysch.png)](https://mitpress.mit.edu/9780262046039/frederik-ruysch-and-his-ithesaurus-anatomicusi/)
 
 ## [The Next Big Thing](https://www.amazon.com/Next-Big-Thing-Boom-Bust-ebook/dp/B0873CG9WX)
 
